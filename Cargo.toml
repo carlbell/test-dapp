@@ -1,9 +1,7 @@
 [package]
-name = "bpf-program-template"
+name = "test-dapp"
 version = "0.1.0"
-edition = "2018"
-license = "WTFPL"
-publish = false
+edition = "2021"
 
 [dependencies]
 solana-program = "=1.8.1"
